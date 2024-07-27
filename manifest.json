@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Password Generate",
+    "description": "A password generator creates strong and random passwords, enhancing the security of online accounts by making it difficult to guess and resistant to brute-force attacks. It prevents the use of weak or reused passwords, which are common in negligent security habits. Adopting them is essential to improving personal and corporate cybersecurity.",
+    "version": "1.0",
+    "permissions":["activeTab", "scripting"],
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "default_icon.png"
+    }
+  }
