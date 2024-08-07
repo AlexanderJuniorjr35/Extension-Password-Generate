@@ -26,7 +26,7 @@ To run the project locally, you will need a modern browser that supports HTML5, 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/AlexanderJuniorjr35/Extension-Password-Generate.git
    ```
 2. **Open the `index.html` file** in your browser to use the password generator.
 
